@@ -6,7 +6,7 @@ Este repositório tem a única função de servir os dados ao front-end através
 
 
  - [My JSON Server](https://my-json-server.typicode.com/)
- - [API Endpoint](https://my-json-server.typicode.com/rafaeelricco/shopping-cart/products)
+ - [API Endpoint](https://my-json-server.typicode.com/rafaeelricco/api-json-server/db)
 
 
 
