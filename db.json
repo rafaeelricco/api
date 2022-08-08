@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Fixo",
+      "title": "Ilimitado Fixo Brasil",
+      "quantity": "1",
+      "description": "O plano ilimitado que cabe no seu bolso.",
+      "price": 39.9
+    },
+    {
+      "id": 2,
+      "category": "TV",
+      "title": "Ultimate HD",
+      "description": "O pacote de canais mais completo da Vivo.",
+      "quantity": "1",
+      "price": 199.9
+    },
+    {
+      "id": 3,
+      "category": "TV",
+      "title": "Full HD",
+      "description": "O melhor planos de canais.",
+      "quantity": "1",
+      "price": 149.9
+    },
+    {
+      "id": 4,
+      "category": "Internet",
+      "title": "100 Megas",
+      "description": "de internet com Wifi-grátis e Serviços Digitais.",
+      "quantity": "1",
+      "price": 99.9
+    },
+    {
+      "id": 5,
+      "category": "Internet",
+      "title": "200 Megas",
+      "description": "de internet com Wifi-grátis e Serviços Digitais.",
+      "quantity": "1",
+      "price": 149.9
+    },
+    {
+      "id": 6,
+      "category": "Internet",
+      "title": "300 Megas",
+      "description": "de internet com Wifi-grátis e Serviços Digitais.",
+      "quantity": "1",
+      "price": 189.9
+    }
+  ]
+}
